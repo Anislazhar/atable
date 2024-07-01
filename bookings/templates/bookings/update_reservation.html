@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+{% load crispy_forms_tags %}
+
+<div class="container">
+    <h1>Amend your booking</h1>
+    <h3>Simply edit the fields below and click "submit".</h3>
+    <form method="POST">
+        {{ form | crispy}}
+        {% csrf_token %}
+        <input class="btn button-style" type="submit" value="Update">
+        <a class="btn btn button-style" aria-current="page" href="{% url 'view_reservations' %}">
+            <span class="nav-colors">Cancel</span></a>
+    </form>
+</div>
+
+{% endblock %}
