@@ -410,7 +410,7 @@ My images are free images available on Pexels.com.  Credits below.
 - GitPod - The IDE used to develop the site
 - [Heroku](https://dashboard.heroku.com/apps) - PaaS used for deployment
 - [Cloudinary](https://cloudinary.com/) - To host images.
-- [ElephantSQL](https://www.elephantsql.com/) - PostgreSQL databases
+- [neon](https://console.neon.tech/app/projects) - neon databases
 
 ## Testing and bugs
 
