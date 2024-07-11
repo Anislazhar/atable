@@ -160,7 +160,7 @@ This milestone was created with the hope I'd have the time to create a separate 
 
 ### Structure Plane
 #### Features/User Stories
-Full user stories are available on the public [project board](https://github.com/users/leah-jala/projects/7/views/2). Below, I am summarizing the site's key feautures. 
+Full user stories are available on the public [project board](https://github.com/users/Anislazhar/projects/5). Below, I am summarizing the site's key feautures. 
 
 ##### Navigation Bar
 
